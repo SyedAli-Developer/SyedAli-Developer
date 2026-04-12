@@ -18,7 +18,3 @@ I am a passionate developer focused on building modern, scalable web application
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedAli-Developer&show_icons=true&theme=dark" alt="Stats" />
-</p>
