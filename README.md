@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Syed Ali 👋
 
-<!--
-**SyedAli-Developer/SyedAli-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React Specialist in the Making 🚀
 
-Here are some ideas to get you started:
+I am a passionate developer focused on building modern, scalable web applications with a focus on clean UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏗️ Currently building: **Sadaqat Material Supply Project**
+- 💻 Tech Stack: **React, Tailwind CSS, JavaScript (ES6+)**
+- 🏫 Student at: **Saylani Mass IT Training (SMIT)**
+- 🎯 Goal: **Becoming a Full Stack MERN Developer**
+
+---
+
+### 🛠 My Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,github,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedAli-Developer&show_icons=true&theme=dark" alt="Stats" />
+</p>
