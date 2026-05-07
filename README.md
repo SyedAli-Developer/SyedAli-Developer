@@ -38,7 +38,7 @@ I am a passionate Frontend Developer dedicated to creating clean, responsive, an
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** [linkedin.com/in/syedali-developer/]
+- **LinkedIn:** [www.linkedin.com/in/syedali-developer/]
 - **Email:** [syedali.h.b.g.626@gmail.com]
 
 ---
