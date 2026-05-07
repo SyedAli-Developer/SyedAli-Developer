@@ -38,8 +38,8 @@ I am a passionate Frontend Developer dedicated to creating clean, responsive, an
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** [Aapka LinkedIn Link Yahan Dalein]
-- **Email:** [Aapka Email Address Yahan Dalein]
+- **LinkedIn:** [linkedin.com/in/syedali-developer/]
+- **Email:** [syedali.h.b.g.626@gmail.com]
 
 ---
 *“Code is like humor. When you have to explain it, it’s bad.”*
